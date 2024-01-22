@@ -1,0 +1,83 @@
+[
+   {
+      "id": "115cc34e-db9c-4204-bb02-73353faf2321",
+      "title": "Titanic",
+      "genre": "Drama, Romance",
+      "price": 100,
+      "rating": 5,
+      "description": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+      "poster": "titanic.jpg"
+   },
+   {
+      "id": "2b5e7b8f-09c1-4d4e-8cda-18c3a29452d6",
+      "title": "Avatar",
+      "genre": "Action, Adventure, Fantasy",
+      "price": 120,
+      "rating": 5,
+      "description": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+      "poster": "avatar.jpg"
+   },
+   {
+      "id": "8c8bdc2d-e5d7-4f7c-9b5f-6a3f8e01c6d1",
+      "title": "Avengers: Endgame",
+      "genre": "Action, Adventure, Drama",
+      "price": 150,
+      "rating": 5,
+      "description": "After the devastating events of Avengers: Infinity War, the universe is in ruins. With the help of allies, the Avengers assemble once more in order to undo Thanos' actions and restore balance to the universe.",
+      "poster": "avengers_endgame.jpg"
+   },
+   {
+      "id": "a8b0f2e7-4e03-492a-925e-3f2d91dd8b0b",
+      "title": "The Lion King",
+      "genre": "Animation, Adventure, Drama",
+      "price": 110,
+      "rating": 3,
+      "description": "A young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery.",
+      "poster": "lion_king.jpg"
+   },
+   {
+      "id": "78917d9b-19b0-4dd4-bd2f-75c3a53c88fe",
+      "title": "Jurassic Park",
+      "genre": "Action, Adventure, Sci-Fi",
+      "price": 130,
+      "rating": 4,
+      "description": "A pragmatic paleontologist visiting an almost complete theme park is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.",
+      "poster": "jurassic_park.jpg"
+   },
+   {
+      "id": "c7f37ab1-88cb-40e5-86c6-eeb5a1e5320d",
+      "title": "Star Wars: Episode VII",
+      "genre": "Action, Adventure, Fantasy",
+      "price": 140,
+      "rating": 4,
+      "description": "Three decades after the Empire's defeat, a new threat arises in the militant First Order. Stormtrooper defector Finn and the scavenger Rey are caught up in the Resistance's search for the missing Luke Skywalker.",
+      "poster": "force_awakens.jpg"
+   },
+   {
+      "id": "09b88a3a-895b-4d92-af22-4c5a69cb2bf8",
+      "title": "The Dark Knight",
+      "genre": "Action, Crime, Drama",
+      "price": 140,
+      "rating": 5,
+      "description": "When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+      "poster": "dark_knight.jpg"
+   },
+   {
+      "id": "6b6a97da-d3c5-4a01-96d0-9b4a081a15d0",
+      "title": "Frozen",
+      "genre": "Animation, Adventure, Comedy",
+      "price": 120,
+      "rating": 4,
+      "description": "When the newly crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.",
+      "poster": "frozen.jpg"
+   },
+   {
+      "id": "63f9b937-92f7-4e3f-b4b4-83706bf21b11",
+      "title": "Inception",
+      "genre": "Action, Adventure, Sci-Fi",
+      "price": 130,
+      "rating": 5,
+      "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+      "poster": "inception.jpg"
+   }
+]
